@@ -7,7 +7,7 @@ import cors from 'cors';
 
 import userRoutes from './routes/users';
 
-const PORT = 5000;
+const PORT = 10000;
 
 const app = express();
 
